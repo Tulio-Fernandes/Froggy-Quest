@@ -51,7 +51,11 @@ Sua missão:
 ## 🎥 Vídeo do Jogo (Gameplay)
 
 🎬 **Gameplay completo:**  
-https://github.com/user-attachments/assets/02494fe5-79a9-4934-91e2-bd917ccc38f9
+
+
+https://github.com/user-attachments/assets/acfb4314-1f8c-4846-8f2c-cfe4c42f384c
+
+
 
 ---
 
